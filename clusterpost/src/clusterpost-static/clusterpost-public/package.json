@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "axios": "0.21.1",
+    "axios": "1.6.0",
     "bootstrap": "5.0.2",
     "clusterpost-list-react": "file:../../clusterpost-list-react",
     "react": "17.0.2",
@@ -15,7 +15,7 @@
     "react-router-dom": "5.2.0",
     "react-scripts": "4.0.3",
     "redux": "4.1.0",
-    "snyk": "1.650.0"
+    "snyk": "1.685.0"
   },
   "scripts": {
     "start": "react-scripts start",
