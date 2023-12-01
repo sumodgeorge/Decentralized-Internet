@@ -23,7 +23,7 @@
     "chokidar": "^3.3.1",
     "coffeescript": "^2.5.1",
     "config-chain": "^1.1.12",
-    "glob": "^7.1.6",
+    "glob": "^9.0.0",
     "lodash": "^4.17.21",
     "optimist": "0.6",
     "socket.io": "^4.0.0",
@@ -73,7 +73,7 @@
     "wiki-security-friends": "^0.2.2",
     "wiki-security-passportjs": "^0.4.2",
     "wiki-server": "^0.19.0",
-    "snyk": "^1.323.0"
+    "snyk": "^1.685.0"
   },
   "devDependencies": {
     "grunt": "1.4.1",
