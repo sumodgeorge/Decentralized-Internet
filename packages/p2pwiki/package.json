@@ -26,11 +26,11 @@
     "glob": "^7.1.6",
     "lodash": "^4.17.21",
     "optimist": "0.6",
-    "socket.io": "^4.0.0",
-    "wiki-client": "^0.23.0",
+    "socket.io": "^4.3.0",
+    "wiki-client": "^0.25.0",
     "decentralized-internet": "^5.0.0",
     "wiki-plugin-activity": "^0.4.4",
-    "wiki-plugin-assets": "^0.2.4",
+    "wiki-plugin-assets": "^0.5.1",
     "wiki-plugin-audio": "^0.1.8",
     "wiki-plugin-bars": "^0.3.2",
     "wiki-plugin-bytebeat": "^0.2.5",
@@ -72,7 +72,7 @@
     "wiki-plugin-video": "^0.2.9",
     "wiki-security-friends": "^0.2.2",
     "wiki-security-passportjs": "^0.4.2",
-    "wiki-server": "^0.19.0",
+    "wiki-server": "^0.24.0",
     "snyk": "^1.323.0"
   },
   "devDependencies": {
